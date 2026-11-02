@@ -21,7 +21,7 @@ Fora do trabalho, crio produtos próprios: unir engenharia sólida com IA para r
 ### Projetos
 
 **[Eu Quero Whats](https://www.euquerowhats.com.br)**: um assistente de compras no WhatsApp e no Telegram. A pessoa diz o que quer comprar, e ele encontra a promoção certa e avisa.
-- Leitura de ofertas em tempo real com IA (Gemini e AWS Bedrock), com rodízio de provedores e teto de custo diário.
+- Leitura de ofertas em tempo real com IA (Gemini e AWS Bedrock).
 - Conversão automática de links de afiliado para as maiores lojas do Brasil.
 - Arquitetura com workers independentes em nuvem (Oracle Cloud), Postgres (Supabase), Redis e funções serverless (Vercel), mais monitoramento e alertas automáticos.
 
@@ -66,7 +66,7 @@ Fora do trabalho, crio produtos próprios: unir engenharia sólida com IA para r
 Day to day I work with **Spring, Kafka and AWS**, building event-driven distributed systems, APIs and integrations. Over the years I've worked across the main technologies of the Java ecosystem, from monoliths to cloud microservices.
 
 On the side, I build my own products, combining solid engineering with AI:
-- **[Eu Quero Whats](https://www.euquerowhats.com.br)**: a WhatsApp and Telegram shopping assistant. It reads offers in real time with AI (Gemini and AWS Bedrock), automatically converts affiliate links for Brazil's largest stores, and runs on independent cloud workers with Postgres, Redis, serverless functions and automated monitoring.
+- **[Eu Quero Whats](https://www.euquerowhats.com.br)**: a WhatsApp and Telegram shopping assistant. It reads offers in real time with AI (Gemini and AWS Bedrock), handles affiliate links for Brazil's largest stores, and runs on independent cloud workers with Postgres, Redis, serverless functions and automated monitoring.
 - **Fé Diária Católica**: an Android app (React Native/Expo) with a daily Bible verse and a message of hope. Coming soon to Google Play.
 
 Let's connect on [LinkedIn](https://www.linkedin.com/in/matheus-melo-a423068b/).

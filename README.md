@@ -20,7 +20,7 @@ Fora do trabalho, crio produtos próprios: unir engenharia sólida com IA para r
 
 ### Projetos
 
-**[Eu Quero Whats](https://www.euquerowhats.com.br)**: um assistente de compras no WhatsApp e no Telegram. A pessoa diz o que quer comprar, e ele encontra a promoção certa e avisa.
+**[Eu Quero Whats](https://www.euquerowhats.com.br)**: um assistente de compras no WhatsApp e no Telegram. A pessoa diz o que quer comprar, e ele encontra a promoção certa e avisa. [Veja a arquitetura →](https://github.com/matheus306/eu-quero-whats-arquitetura)
 - Leitura de ofertas em tempo real com IA (Gemini e AWS Bedrock).
 - Conversão automática de links de afiliado para as maiores lojas do Brasil.
 - Arquitetura com workers independentes em nuvem (Oracle Cloud), Postgres (Supabase), Redis e funções serverless (Vercel), mais monitoramento e alertas automáticos.
